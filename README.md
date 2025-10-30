@@ -8,7 +8,10 @@
 
 📚 I'm currently learning React for front-end development and progressing through TryHackMe cybersecurity challenges.  
 
-🎉 Fun fact: After high school, I studied economics at university, now I’m a bartender in Strasbourg, France, and I’m really interested in financial markets, crypto, and trading.
+🎉 Fun fact: 
+- After high school, I studied economics at university,
+- I’m a bartender in Strasbourg, France,
+- I’m really interested in financial markets, crypto, and trading.
 
 ---
 
@@ -33,7 +36,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Charmant67&icon=0&color=0)](https://visitcount.itsvg.in)
